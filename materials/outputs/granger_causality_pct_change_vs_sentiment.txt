@@ -1,0 +1,36 @@
+--- Granger Causality Test Results ---
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=5.7938  , p=0.0245  , df_denom=23, df_num=1
+ssr based chi2 test:   chi2=6.5495  , p=0.0105  , df=1
+likelihood ratio test: chi2=5.8413  , p=0.0157  , df=1
+parameter F test:         F=5.7938  , p=0.0245  , df_denom=23, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=2.6068  , p=0.0986  , df_denom=20, df_num=2
+ssr based chi2 test:   chi2=6.5170  , p=0.0384  , df=2
+likelihood ratio test: chi2=5.7913  , p=0.0553  , df=2
+parameter F test:         F=2.6068  , p=0.0986  , df_denom=20, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=1.6862  , p=0.2076  , df_denom=17, df_num=3
+ssr based chi2 test:   chi2=7.1417  , p=0.0675  , df=3
+likelihood ratio test: chi2=6.2518  , p=0.1000  , df=3
+parameter F test:         F=1.6862  , p=0.2076  , df_denom=17, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=1.0327  , p=0.4247  , df_denom=14, df_num=4
+ssr based chi2 test:   chi2=6.7861  , p=0.1476  , df=4
+likelihood ratio test: chi2=5.9466  , p=0.2032  , df=4
+parameter F test:         F=1.0327  , p=0.4247  , df_denom=14, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=1.3262  , p=0.3225  , df_denom=11, df_num=5
+ssr based chi2 test:   chi2=13.2615 , p=0.0210  , df=5
+likelihood ratio test: chi2=10.3785 , p=0.0652  , df=5
+parameter F test:         F=1.3262  , p=0.3225  , df_denom=11, df_num=5
