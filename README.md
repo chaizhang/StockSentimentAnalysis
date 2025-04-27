@@ -53,7 +53,9 @@ All code is provided in Jupyter Notebook format.
 ### 5. Select the Correct Jupyter Kernel
 
 1. Open one of the notebook files
+
 2. Click on "Select Kernel" or "Change Kernel"
+
 3. Choose the kernel that matches your virtual environment, which will be named something like `Python (venv)`
 
 This ensures the notebook runs using the environment with the installed packages.
@@ -65,8 +67,10 @@ Go to the `materials/scripts/` folder and run the notebooks in the order below:
 1. `fetch_data.ipynb`
     - Follow the instructions at the top to get your own Alpaca API keys [[3]](#3)[[4]](#4)
     - Run the notebook to collect financial news and stock price data
+
 2. `get_sentiment.ipynb`
     - This notebook performs sentiment analysis on the news headlines and summaries
+    
 3. `analysis.ipynb`
     - This notebook performs lag correlation analysis and Granger causality test
 
