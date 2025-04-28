@@ -9,10 +9,10 @@ All code is provided in Jupyter Notebook format.
 ## Repository Content
 
 - `Hook.pdf` - Introduces the background and motivation behind this project
-- `Rubric.pdf`: Lists deliverables and learning outcomes
+- `Rubric.pdf` - Lists deliverables and learning outcomes
 - `Granger_causality_Test_Article.pdf` - Provides more details about the Granger causality test and its application [[1]](#1) 
 - `How_to_Trade_the_News_Article.pdf` - Discusses how news impacts stock prices and trading strategies [[2]](#2)
-- `materials/` folder: Contains notebooks, scripts, data, and instructions needed to reproduce the analysis
+- `materials/` folder - Contains notebooks, scripts, data, and instructions needed to reproduce the analysis
 
 ## Instructions for Reproducing Results
 
