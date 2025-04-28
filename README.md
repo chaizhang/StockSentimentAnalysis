@@ -65,8 +65,8 @@ This ensures the notebook runs using the environment with the installed packages
 Go to the `materials/scripts/` folder and run the notebooks in the order below:
 
 1. `fetch_data.ipynb`
-    - Follow the instructions at the top to get your own Alpaca API keys [[3]](#3)[[4]](#4)
-    - Run the notebook to collect financial news and stock price data
+    - Follow the instructions at the top to get your own Alpaca API keys
+    - Run the notebook to collect financial news and stock price data from Alpaca API [[3]](#3)[[4]](#4)
 
 2. `get_sentiment.ipynb`
     - This notebook performs sentiment analysis on the news headlines and summaries
