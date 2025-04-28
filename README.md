@@ -74,7 +74,7 @@ Go to the `materials/scripts/` folder and run the notebooks in the order below:
 3. `analysis.ipynb`
     - This notebook performs lag correlation analysis and Granger causality test
 
-### References
+## References
 
 <a id="1">[1]</a> S. Prabhakaran, “Granger Causality Test,” Machine Learning Plus, Aug. 29, 2022. https://www.machinelearningplus.com/time-series/granger-causality-test/ (accessed Apr. 27, 2025).
 
